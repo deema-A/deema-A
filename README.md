@@ -1,4 +1,8 @@
 ### Hi there 👋
+ Hello, I'm Deema
+ - 📫 How to reach me: daa2182@columbia.edu
+ - 😄 Pronouns: she/her
+ - 👔 LinkedIn: https://www.linkedin.com/in/deemaa2021/
 
 <!--
 **deema-A/deema-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
