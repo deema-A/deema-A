@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Buy me 🍕](https://www.buymeacoffee.com/deemaa)
+<!-- [Buy me 🍕](https://www.buymeacoffee.com/deemaa) -->
